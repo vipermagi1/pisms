@@ -1,0 +1,23 @@
+{
+  "name": "PISMS - Personal Information & Schedule Management System",
+  "short_name": "PISMS",
+  "start_url": "/pisms/",
+  "display": "standalone",
+  "background_color": "#4A90E2",
+  "theme_color": "#4A90E2",
+  "description": "개인화된 정보와 일정 관리 시스템",
+  "icons": [
+    {
+      "src": "icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
