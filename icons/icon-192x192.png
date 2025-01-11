@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192">
+  <!-- Background Circle -->
+  <circle cx="96" cy="96" r="88" fill="#4A90E2"/>
+  
+  <!-- Decorative Elements -->
+  <circle cx="96" cy="96" r="76" fill="none" stroke="white" stroke-width="4"/>
+  
+  <!-- Central Icon -->
+  <circle cx="96" cy="96" r="40" fill="white"/>
+  <path d="M76 96 L116 96 M96 76 L96 116" stroke="#4A90E2" stroke-width="8" stroke-linecap="round"/>
+  
+  <!-- Text -->
+  <text x="96" y="160" font-family="Arial" font-size="24" font-weight="bold" fill="white" text-anchor="middle">PISMS</text>
+</svg>
