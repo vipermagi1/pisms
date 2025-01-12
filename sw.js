@@ -1,11 +1,11 @@
 const CACHE_NAME = 'pisms-v1';
 const urlsToCache = [
-  '/pisms/',
-  '/pisms/index.html',
-  '/pisms/js/app.js',
-  '/pisms/manifest.json',
-  '/pisms/icons/icon-192x192.png',
-  '/pisms/icons/icon-512x512.png'
+  './',
+  './index.html',
+  './js/app.js',
+  './manifest.json',
+  './icons/icon-192x192.png',
+  './icons/icon-512x512.png'
 ];
 
 self.addEventListener('install', event => {
